@@ -1,6 +1,6 @@
 {
   "manifest_version": 3,
-  "name": "Block AI Overview",
+  "name": "Hide AI Overview",
   "version": "1.0.0",
   "description": "Removes AI Overview from Google search results",
   "permissions": [],
